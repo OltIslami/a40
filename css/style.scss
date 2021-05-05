@@ -1,0 +1,23 @@
+$title-color:rgb(132, 132, 221)
+
+body{
+    
+}
+
+
+header{
+    h1{
+        font-size: 20px;
+        color: $title-color;
+    }
+
+    ul{
+        list-style: none;
+        text-decoration: none;
+
+        a{
+            text-decoration: none;
+            color: $title-color;
+        }
+    }
+   }    
